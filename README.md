@@ -21,7 +21,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Education**: Computer Science & Engineering undergraduate at Vel Tech High Tech Dr. Rangarajan Dr. Sankunthala Engineering College (Chennai, India).
-- ☁️ **Cloud Expertise**: **8 verified AWS credentials** covering Architecture, DevOps, Security, Cloud Economics, and Operations.
+- ☁️ **Cloud Expertise**: **9 verified AWS credentials** covering Architecture, DevOps, Security, Cloud Economics, and Operations.
 - ⚙️ **Backend & Full Stack**: Designing robust, scalable applications and REST APIs using **Java**, **Python**, **Spring Boot**, **Hibernate**, and **MySQL**.
 - 💼 **Professional Journey**: Active open-source contributor in **GirlScript Summer of Code (GSSoC)** and developer of enterprise web & cloud solutions.
 - 🤝 **Community & Growth**: Passionate about collaborative development, automated CI/CD pipelines, and writing clean, maintainable code.
@@ -50,60 +50,69 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210023.png" title="Click to view verified credential">
-        <img src="./badges/aws-technical-accredited.svg" width="105" alt="AWS Technical Accredited" />
+        <img src="./badges/aws-technical-accredited.svg" width="110" alt="AWS Technical Accredited" />
       </a><br />
       <b>AWS Technical Accredited</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210037.png" title="Click to view verified credential">
-        <img src="./badges/aws-cloud-economics.svg" width="105" alt="Cloud Economics Essentials" />
+        <img src="./badges/aws-cloud-economics.svg" width="110" alt="Cloud Economics Essentials" />
       </a><br />
       <b>Cloud Economics Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210051.png" title="Click to view verified credential">
-        <img src="./badges/aws-generative-ai.svg" width="105" alt="Generative AI Technical" />
+        <img src="./badges/aws-generative-ai.svg" width="110" alt="Generative AI Technical" />
       </a><br />
       <b>Generative AI Technical</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="25%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" valign="top">
+      <a href="./badges/Screenshot%202026-08-15%20210103.png" title="Click to view verified credential">
+        <img src="./badges/aws-agentic-ai.svg" width="110" alt="Agentic AI Essentials" />
+      </a><br />
+      <b>Agentic AI Essentials</b><br />
+      <sub>Trained Partner</sub>
+    </td>
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210116.png" title="Click to view verified credential">
-        <img src="./badges/aws-security-essentials.svg" width="105" alt="Security Essentials" />
+        <img src="./badges/aws-security-essentials.svg" width="110" alt="Security Essentials" />
       </a><br />
       <b>Security Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210133.png" title="Click to view verified credential">
-        <img src="./badges/aws-migration-essentials.svg" width="105" alt="Migration Essentials" />
+        <img src="./badges/aws-migration-essentials.svg" width="110" alt="Migration Essentials" />
       </a><br />
       <b>Migration Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="25%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210147.png" title="Click to view verified credential">
-        <img src="./badges/aws-devops-essentials.svg" width="105" alt="DevOps Essentials" />
+        <img src="./badges/aws-devops-essentials.svg" width="110" alt="DevOps Essentials" />
       </a><br />
       <b>DevOps Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210159.png" title="Click to view verified credential">
-        <img src="./badges/aws-cloud-operations.svg" width="105" alt="Cloud Operations Essentials" />
+        <img src="./badges/aws-cloud-operations.svg" width="110" alt="Cloud Operations Essentials" />
       </a><br />
       <b>Cloud Operations Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="33.33%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210213.png" title="Click to view verified credential">
-        <img src="./badges/aws-migration-foundations.svg" width="105" alt="AWS Migration Foundations" />
+        <img src="./badges/aws-migration-foundations.svg" width="110" alt="AWS Migration Foundations" />
       </a><br />
       <b>AWS Migration Foundations</b><br />
       <sub>Knowledge Trained</sub>
