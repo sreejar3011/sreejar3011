@@ -2,7 +2,7 @@
 
 # ⚡ Sreeja R
 
-### Cloud & DevOps Engineer · Backend Developer · Agentic & Generative AI
+### Cloud & DevOps Engineer · Backend Developer · Full Stack Developer
 
 <p align="center">
   <a href="https://linkedin.com/in/sreejaramesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Computer Science & Engineering student specializing in scalable backend architectures, cloud-native AWS infrastructure, and autonomous agentic AI workflows.
+  Computer Science & Engineering student specializing in scalable backend architectures, cloud-native AWS infrastructure, and full-stack software development.
 </p>
 
 </div>
@@ -21,10 +21,26 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Education**: Computer Science & Engineering undergraduate at Vel Tech High Tech Dr. Rangarajan Dr. Sankunthala Engineering College (Chennai, India).
-- ☁️ **Cloud Expertise**: **9 verified AWS credentials** covering Architecture, DevOps, Security, Cloud Economics, and Agentic/Generative AI.
-- ⚙️ **Backend Engineering**: Designing robust, scalable REST APIs using **Java**, **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **MySQL**.
-- 🤖 **AI Systems**: Architecting practical Generative AI solutions and autonomous Agentic AI multi-agent workflows with decision loops.
-- 🤝 **Open Source**: Contributor exploring community platforms and active participant in **GirlScript Summer of Code (GSSoC)**.
+- ☁️ **Cloud Expertise**: **8 verified AWS credentials** covering Architecture, DevOps, Security, Cloud Economics, and Operations.
+- ⚙️ **Backend & Full Stack**: Designing robust, scalable applications and REST APIs using **Java**, **Python**, **Spring Boot**, **Hibernate**, and **MySQL**.
+- 💼 **Professional Journey**: Active open-source contributor in **GirlScript Summer of Code (GSSoC)** and developer of enterprise web & cloud solutions.
+- 🤝 **Community & Growth**: Passionate about collaborative development, automated CI/CD pipelines, and writing clean, maintainable code.
+
+---
+
+## 💼 Experience
+
+### 🚀 Open Source Contributor · **GirlScript Summer of Code (GSSoC)**
+*May 2026 – Present · Remote*
+- Actively contributing to open-source software repositories, participating in issue triage, code reviews, and Git workflows.
+- Developing modular features, improving backend logic, and enhancing project documentation across community ecosystems.
+- Collaborating with maintainers and international developer communities on real-world codebases.
+
+### 💻 Full Stack & Backend Developer · **Academic & Independent Projects**
+*2024 – Present · Chennai, India*
+- Built and deployed scalable RESTful microservice architectures using **Java**, **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **MySQL** with comprehensive Swagger OpenAPI documentation ([TaskManagerAPI](https://github.com/sreejar3011/TaskManagerAPI)).
+- Developed responsive web applications and smart platforms utilizing **Python**, modern JavaScript, and clean UI engineering practices ([Farmora-AI](https://github.com/sreejar3011/Farmora-AI-Agriculture-App), [Apurva-Sweets](https://github.com/sreejar3011/Apurva-Sweets-Ecommerce-Frontend)).
+- Applied AWS cloud architecture standards for cost optimization, security essentials, and resilient deployments.
 
 ---
 
@@ -34,69 +50,60 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33.33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210023.png" title="Click to view verified credential">
-        <img src="./badges/aws-technical-accredited.svg" width="110" alt="AWS Technical Accredited" />
+        <img src="./badges/aws-technical-accredited.svg" width="105" alt="AWS Technical Accredited" />
       </a><br />
       <b>AWS Technical Accredited</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="33.33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210037.png" title="Click to view verified credential">
-        <img src="./badges/aws-cloud-economics.svg" width="110" alt="Cloud Economics Essentials" />
+        <img src="./badges/aws-cloud-economics.svg" width="105" alt="Cloud Economics Essentials" />
       </a><br />
       <b>Cloud Economics Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="33.33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210051.png" title="Click to view verified credential">
-        <img src="./badges/aws-generative-ai.svg" width="110" alt="Generative AI Technical" />
+        <img src="./badges/aws-generative-ai.svg" width="105" alt="Generative AI Technical" />
       </a><br />
       <b>Generative AI Technical</b><br />
       <sub>Trained Partner</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" valign="top">
-      <a href="./badges/Screenshot%202026-08-15%20210103.png" title="Click to view verified credential">
-        <img src="./badges/aws-agentic-ai.svg" width="110" alt="Agentic AI Essentials" />
-      </a><br />
-      <b>Agentic AI Essentials</b><br />
-      <sub>Trained Partner</sub>
-    </td>
-    <td align="center" width="33.33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210116.png" title="Click to view verified credential">
-        <img src="./badges/aws-security-essentials.svg" width="110" alt="Security Essentials" />
+        <img src="./badges/aws-security-essentials.svg" width="105" alt="Security Essentials" />
       </a><br />
       <b>Security Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="33.33%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210133.png" title="Click to view verified credential">
-        <img src="./badges/aws-migration-essentials.svg" width="110" alt="Migration Essentials" />
+        <img src="./badges/aws-migration-essentials.svg" width="105" alt="Migration Essentials" />
       </a><br />
       <b>Migration Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210147.png" title="Click to view verified credential">
-        <img src="./badges/aws-devops-essentials.svg" width="110" alt="DevOps Essentials" />
+        <img src="./badges/aws-devops-essentials.svg" width="105" alt="DevOps Essentials" />
       </a><br />
       <b>DevOps Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="33.33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210159.png" title="Click to view verified credential">
-        <img src="./badges/aws-cloud-operations.svg" width="110" alt="Cloud Operations Essentials" />
+        <img src="./badges/aws-cloud-operations.svg" width="105" alt="Cloud Operations Essentials" />
       </a><br />
       <b>Cloud Operations Essentials</b><br />
       <sub>Trained Partner</sub>
     </td>
-    <td align="center" width="33.33%" valign="top">
+    <td align="center" width="25%" valign="top">
       <a href="./badges/Screenshot%202026-08-15%20210213.png" title="Click to view verified credential">
-        <img src="./badges/aws-migration-foundations.svg" width="110" alt="AWS Migration Foundations" />
+        <img src="./badges/aws-migration-foundations.svg" width="105" alt="AWS Migration Foundations" />
       </a><br />
       <b>AWS Migration Foundations</b><br />
       <sub>Knowledge Trained</sub>
@@ -114,9 +121,9 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Backend & Cloud** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logoColor=white) |
-| **AI & Developer Tools** | ![Agentic AI](https://img.shields.io/badge/Agentic_AI-06B6D4?style=flat-square&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-A855F7?style=flat-square&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **Tools & Frameworks** | ![Generative AI](https://img.shields.io/badge/Generative_AI-A855F7?style=flat-square&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 </div>
 
@@ -130,11 +137,11 @@
 
 - [**Farmora-AI-Agriculture-App**](https://github.com/sreejar3011/Farmora-AI-Agriculture-App)  
   *AI-powered smart agriculture platform designed for crop monitoring, disease prediction, and data-driven farming insights.*  
-  `AI/ML` · `Smart Agriculture` · `Predictive Insights` · `HTML5` · `CSS3`
+  `Python` · `Predictive Insights` · `Smart Agriculture` · `HTML5` · `CSS3`
 
 - [**Apurva-Sweets-Ecommerce-Frontend**](https://github.com/sreejar3011/Apurva-Sweets-Ecommerce-Frontend)  
   *Modern, responsive e-commerce web application featuring dynamic catalog flows and sleek user interaction designs.*  
-  `TypeScript` · `Responsive UI/UX` · `E-Commerce` · `Frontend Engineering`
+  `JavaScript` · `Responsive UI/UX` · `E-Commerce` · `Frontend Engineering`
 
 ---
 
