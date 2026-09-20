@@ -20,12 +20,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Education**: Computer Science & Engineering undergraduate at Vel Tech High Tech Dr. Rangarajan Dr. Sankunthala Engineering College (Chennai, India).
-- ☁️ **Cloud Expertise**: **9 verified AWS credentials** covering Architecture, DevOps, Security, Cloud Economics, and Operations, with hands-on experience building and working with AWS cloud solutions.
-- ⚙️ **Backend & Full Stack**: Designing robust, scalable applications and REST APIs using **Java, Python, Spring Boot, Hibernate, and MySQL**.
-- 💼 **Professional Journey**: **AWS Cloud Intern at F13 Technologies** and **LLM Data Engineer Intern at IIITDM Kancheepuram**, working on cloud-based applications, AWS services, LLM data engineering, dataset preparation, code-correction workflows, and software development.
-- 🚀 **Projects & Open Source**: Active contributor to **GirlScript Summer of Code (GSSoC)** and involved in developing real-world **AWS cloud, backend, AI/ML, and full-stack projects** with a focus on practical engineering and scalable solutions.
-- 🤝 **Community & Growth**: Actively building expertise through **AWS Builder Center, open-source collaboration, technical projects, and continuous learning**, while exploring **cloud computing, AI/ML, LLM engineering, CI/CD automation, and clean software development practices**.
+- 🎓 **Education**: Computer Science & Engineering undergraduate at **Vel Tech High Tech** (Chennai, India).
+- ☁️ **Cloud**: **9 verified AWS credentials** spanning Architecture, DevOps, Security, and Cloud Operations.
+- ⚙️ **Engineering**: Scalable REST APIs and full-stack systems using **Java**, **Python**, **Spring Boot**, and **MySQL**.
+- 💼 **Experience**: AWS Cloud Intern at **F13 Technologies** · LLM Data Engineer Intern at **IIITDM Kancheepuram** · Contributor at **GSSoC**.
+- 🎯 **Focus**: Cloud-native architectures, serverless solutions, robust API design, and CI/CD automation.
 
 ---
 
