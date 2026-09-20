@@ -21,26 +21,46 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Education**: Computer Science & Engineering undergraduate at Vel Tech High Tech Dr. Rangarajan Dr. Sankunthala Engineering College (Chennai, India).
-- ☁️ **Cloud Expertise**: **9 verified AWS credentials** covering Architecture, DevOps, Security, Cloud Economics, and Operations.
-- ⚙️ **Backend & Full Stack**: Designing robust, scalable applications and REST APIs using **Java**, **Python**, **Spring Boot**, **Hibernate**, and **MySQL**.
-- 💼 **Professional Journey**: Active open-source contributor in **GirlScript Summer of Code (GSSoC)** and developer of enterprise web & cloud solutions.
-- 🤝 **Community & Growth**: Passionate about collaborative development, automated CI/CD pipelines, and writing clean, maintainable code.
+- ☁️ **Cloud Expertise**: **9 verified AWS credentials** covering Architecture, DevOps, Security, Cloud Economics, and Operations, with hands-on experience building and working with AWS cloud solutions.
+- ⚙️ **Backend & Full Stack**: Designing robust, scalable applications and REST APIs using **Java, Python, Spring Boot, Hibernate, and MySQL**.
+- 💼 **Professional Journey**: **AWS Cloud Intern at F13 Technologies** and **LLM Data Engineer Intern at IIITDM Kancheepuram**, working on cloud-based applications, AWS services, LLM data engineering, dataset preparation, code-correction workflows, and software development.
+- 🚀 **Projects & Open Source**: Active contributor to **GirlScript Summer of Code (GSSoC)** and involved in developing real-world **AWS cloud, backend, AI/ML, and full-stack projects** with a focus on practical engineering and scalable solutions.
+- 🤝 **Community & Growth**: Actively building expertise through **AWS Builder Center, open-source collaboration, technical projects, and continuous learning**, while exploring **cloud computing, AI/ML, LLM engineering, CI/CD automation, and clean software development practices**.
 
 ---
 
 ## 💼 Experience
 
+### ☁️ AWS Cloud Intern · **F13 Technologies**
+*2026 · Remote*
+- Worked on **AWS cloud-based application development** across services including **IAM, EC2, S3, VPC, RDS, Lambda, CloudWatch, Auto Scaling, and Load Balancing**.
+- Contributed to real-world cloud projects involving **serverless architectures, API integrations, security, monitoring, automation, and cost-conscious AWS deployments**.
+- Developed and tested application modules using **AWS Lambda, Amazon S3, DynamoDB, API Gateway, Amazon Cognito, SQS, and Amazon Textract**.
+- Applied AWS **Well-Architected Framework** principles, including security, reliability, performance efficiency, operational excellence, and cost optimization.
+- Collaborated in team-based development using **Git, GitHub, branching strategies, pull requests, testing, and code reviews**.
+
+### 🤖 LLM Data Engineer Intern · **IIITDM Kancheepuram**
+*2026 · Kancheepuram, India*
+- Worked on **LLM fine-tuning and code-correction datasets** for improving model performance on software engineering tasks.
+- Prepared and processed large-scale **C++ and Java code datasets**, including structured JSONL data for model training and evaluation.
+- Developed data-processing workflows for **buggy-code and fixed-code pairs**, ensuring consistent formatting, validation, and dataset quality.
+- Worked with large datasets including the **RunBugRun** dataset and prepared optimized subsets for downstream LLM experimentation.
+- Used development and experimentation environments including **Google Colab and Antigravity IDE** for dataset processing, validation, and engineering workflows.
+
 ### 🚀 Open Source Contributor · **GirlScript Summer of Code (GSSoC)**
 *May 2026 – Present · Remote*
-- Actively contributing to open-source software repositories, participating in issue triage, code reviews, and Git workflows.
-- Developing modular features, improving backend logic, and enhancing project documentation across community ecosystems.
-- Collaborating with maintainers and international developer communities on real-world codebases.
+- Actively contributing to open-source repositories through **issues, Git workflows, pull requests, code reviews, and collaborative development**.
+- Developing modular features, improving application logic, fixing issues, and enhancing project documentation across community-driven codebases.
+- Collaborating with maintainers and developers while following structured **branching, commit, pull request, and review workflows**.
+- Gaining practical experience in **open-source engineering, team collaboration, code quality, and production-oriented development**.
 
 ### 💻 Full Stack & Backend Developer · **Academic & Independent Projects**
 *2024 – Present · Chennai, India*
-- Built and deployed scalable RESTful microservice architectures using **Java**, **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **MySQL** with comprehensive Swagger OpenAPI documentation ([TaskManagerAPI](https://github.com/sreejar3011/TaskManagerAPI)).
-- Developed responsive web applications and smart platforms utilizing **Python**, modern JavaScript, and clean UI engineering practices ([Farmora-AI](https://github.com/sreejar3011/Farmora-AI-Agriculture-App), [Apurva-Sweets](https://github.com/sreejar3011/Apurva-Sweets-Ecommerce-Frontend)).
-- Applied AWS cloud architecture standards for cost optimization, security essentials, and resilient deployments.
+- Built RESTful backend applications and microservice-based systems using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**, with API documentation using **Swagger/OpenAPI**.
+- Developed web applications and intelligent platforms using **Python, JavaScript, REST APIs, and modern UI development practices**.
+- Built and contributed to real-world projects spanning **AWS Cloud, AI/ML, backend engineering, full-stack development, and enterprise application workflows**.
+- Worked on projects involving **AWS Lambda, API Gateway, DynamoDB, S3, Cognito, Step Functions, SQS, Textract, and Comprehend**.
+- Applied software engineering practices including **Git/GitHub, modular architecture, testing, API design, documentation, CI/CD concepts, security, and cost-aware cloud development**.
 
 ---
 
