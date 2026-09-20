@@ -31,36 +31,21 @@
 
 ## 💼 Experience
 
-### ☁️ AWS Cloud Intern · **F13 Technologies**
-*2026 · Remote*
-- Worked on **AWS cloud-based application development** across services including **IAM, EC2, S3, VPC, RDS, Lambda, CloudWatch, Auto Scaling, and Load Balancing**.
-- Contributed to real-world cloud projects involving **serverless architectures, API integrations, security, monitoring, automation, and cost-conscious AWS deployments**.
-- Developed and tested application modules using **AWS Lambda, Amazon S3, DynamoDB, API Gateway, Amazon Cognito, SQS, and Amazon Textract**.
-- Applied AWS **Well-Architected Framework** principles, including security, reliability, performance efficiency, operational excellence, and cost optimization.
-- Collaborated in team-based development using **Git, GitHub, branching strategies, pull requests, testing, and code reviews**.
+### ☁️ AWS Cloud Intern · **F13 Technologies** *(2026 · Remote)*
+- Engineered serverless cloud solutions and API integrations using **Lambda, S3, DynamoDB, API Gateway, and Cognito**.
+- Implemented **Well-Architected Framework** best practices across IAM, VPC, RDS, CloudWatch, and cost-optimized deployments.
 
-### 🤖 LLM Data Engineer Intern · **IIITDM Kancheepuram**
-*2026 · Kancheepuram, India*
-- Worked on **LLM fine-tuning and code-correction datasets** for improving model performance on software engineering tasks.
-- Prepared and processed large-scale **C++ and Java code datasets**, including structured JSONL data for model training and evaluation.
-- Developed data-processing workflows for **buggy-code and fixed-code pairs**, ensuring consistent formatting, validation, and dataset quality.
-- Worked with large datasets including the **RunBugRun** dataset and prepared optimized subsets for downstream LLM experimentation.
-- Used development and experimentation environments including **Google Colab and Antigravity IDE** for dataset processing, validation, and engineering workflows.
+### 🤖 LLM Data Engineer Intern · **IIITDM Kancheepuram** *(2026 · Kancheepuram, India)*
+- Curated and processed large-scale **C++ and Java code-correction datasets** (JSONL) for LLM fine-tuning and evaluation.
+- Developed automated pipelines for buggy/fixed code pairing and subset optimization using **Google Colab & Antigravity IDE**.
 
-### 🚀 Open Source Contributor · **GirlScript Summer of Code (GSSoC)**
-*May 2026 – Present · Remote*
-- Actively contributing to open-source repositories through **issues, Git workflows, pull requests, code reviews, and collaborative development**.
-- Developing modular features, improving application logic, fixing issues, and enhancing project documentation across community-driven codebases.
-- Collaborating with maintainers and developers while following structured **branching, commit, pull request, and review workflows**.
-- Gaining practical experience in **open-source engineering, team collaboration, code quality, and production-oriented development**.
+### 🚀 Open Source Contributor · **GirlScript Summer of Code (GSSoC)** *(May 2026 – Present · Remote)*
+- Actively contributing to open-source repositories through **modular feature development, bug fixes, and PR reviews**.
+- Collaborating with global developer communities following structured Git branching and code-quality standards.
 
-### 💻 Full Stack & Backend Developer · **Academic & Independent Projects**
-*2024 – Present · Chennai, India*
-- Built RESTful backend applications and microservice-based systems using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**, with API documentation using **Swagger/OpenAPI**.
-- Developed web applications and intelligent platforms using **Python, JavaScript, REST APIs, and modern UI development practices**.
-- Built and contributed to real-world projects spanning **AWS Cloud, AI/ML, backend engineering, full-stack development, and enterprise application workflows**.
-- Worked on projects involving **AWS Lambda, API Gateway, DynamoDB, S3, Cognito, Step Functions, SQS, Textract, and Comprehend**.
-- Applied software engineering practices including **Git/GitHub, modular architecture, testing, API design, documentation, CI/CD concepts, security, and cost-aware cloud development**.
+### 💻 Full Stack & Backend Developer · **Academic & Independent Projects** *(2024 – Present)*
+- Architected scalable RESTful microservices using **Java, Spring Boot, Hibernate, MySQL, and Swagger/OpenAPI**.
+- Built full-stack web and cloud applications integrating **Python, modern JavaScript, and AWS serverless services**.
 
 ---
 
